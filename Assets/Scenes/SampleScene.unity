@@ -3014,8 +3014,8 @@ MonoBehaviour:
   _loadAngle: -85
   _reloadAngle: 5
   _hingeForce: 20
-  _launchForce: 7
-  _springForse: 5000
+  _launchForce: 2.5
+  _springForse: 10000
 --- !u!1 &1781504935
 GameObject:
   m_ObjectHideFlags: 0
